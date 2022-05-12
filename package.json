@@ -48,6 +48,6 @@
     "dotenv": "^8.2.0",
     "fs-extra": "^9.1.0",
     "minimist": "^1.2.5",
-    "solidity-coverage": "^0.7.16"
+    "solidity-coverage": "^0.7.20"
   }
 }
